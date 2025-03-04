@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-This Privacy Policy explains how [Your Company/Name] ("we," "us," or "our") collects, uses, and discloses your information when you use our Restaurant Dashboard application ("the Software").
+This Privacy Policy explains how JACMAR collects, uses, and discloses your information when you use our Restaurant Dashboard application.
 
 ## 2. Information We Collect
 
